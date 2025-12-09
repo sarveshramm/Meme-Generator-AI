@@ -1,4 +1,4 @@
-<h1 align="center"> Meme-Generator-AI 🎭 – Smart AI-Powered Meme Creator</h1>
+<h1 align="center"> Meme-Generator-AI  – Smart AI-Powered Meme Creator</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Create+Instant+Memes+with+AI;Smart+Text+Overlay+Generator;React+%2B+Vite+Based+Web+App;Fun+Fast+and+Interactive!" alt="Meme Generator AI Title Animation" />
@@ -63,7 +63,7 @@ The text is styled using:
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **React** (SPA, component-based architecture)  
 - **React-DOM** (rendering)  
